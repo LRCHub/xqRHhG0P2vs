@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "くだらない唄",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-01-13T09:15:10.891812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くだらない唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_くだらない唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "続・くだらない唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_続・くだらない唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "くだらない唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_くだらない唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "続･くだらない唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_続・くだらない唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "02. くだらない唄",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/05_02._くだらない唄_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くだらない唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_くだらない唄_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
